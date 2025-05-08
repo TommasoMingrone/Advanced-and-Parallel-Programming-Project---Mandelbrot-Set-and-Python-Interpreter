@@ -73,7 +73,7 @@ Generated with:
 ./mandelbrot mandelbrot.pgm 1000 1000
 ```
 
-![Mandelbrot Output](ProjectC/mandelbrot.pgm)
+![Mandelbrot Output](Project_C/ProjectC.pgm)
 
 Image saved as `Project_C/mandelbrot.pgm`.
 
